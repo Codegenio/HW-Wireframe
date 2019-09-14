@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    columns: #777;
+    background: #777;
+    width: '960px';
+    font-size: '18px'
+}
+article {
+    color: #eebbee;
+    background: #777;
+    float: left;
+    width: 50%;
+}
+.eb {
+    background: #777;
+    color: #eebbee;
+    text-align: center;
+    padding: 20px;
+
+}
+.min {
+    color: #777;
+    background: #eebbee;
+    text-align: center;
+    padding: 20px;
+}
+
