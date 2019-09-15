@@ -16,6 +16,11 @@ article {
     color: #ebebeb;
     text-align: center;
 }
+#eb{
+    background: #777;
+    color: #ebebeb;
+    text-align: center;
+}
 h1 {
     color: #777;
     background: #ebebeb;
@@ -33,26 +38,21 @@ h1 {
 .section{
     padding: 20px;
 }
-.asi{
-    padding-bottom: 200px;
-    background: #777;
-    color: #ebebeb;
-    text-align: center;
 }
 #asi{
     background: #777;
     color: #ebebeb;
     text-align: center;
 }
-#tp{
-    background: #777;
+h1 #tp{
+    background: #ebebeb;
     color: #777;
     text-align: center;
     padding: 10px
 }
 #bo{
-    background: #777;
-    color: #ebebeb;
+    background: #ebebeb;
+    color: #777;
     text-align: center;
     padding: 10px;
 }
@@ -64,4 +64,11 @@ footer {
     background: #ebebeb;
     width: 94%;
     text-align: center;
+}
+#art{
+    width: 94%;
+    margin: 0px 3% 0px 3%;
+    background: #777;
+    color: #ebebeb;
+    
 }
