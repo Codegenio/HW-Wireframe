@@ -1,74 +1,97 @@
-body {
+body{
+    background: #777;
+}
+#outer{
+    background: #777;
+    color: #ebebeb;
+    font-size: 18px;
+    text-align: center;
     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
-    columns: #777;
-    background: #777;
-    width: '960px';
-    font-size: '18px'
+    margin-left: 20px;
+    margin-right: 20px;
 }
-article {
-    color: #ebebeb;
-    background: #777;
-    float: left;
+#head{
+    background: #ebebeb;
+    color: #777;
+    text-align: center;
+    font-size: 18px;
+    height: 70px;
+    padding-top: 40px;
+}
+#nav{
+    background: #ebebeb;
+    color: #777;
+    text-align: center;
+    font-size: 18px;
+    height: 110px;
+}
+#navtex{
+    padding-top: 40px;
+    font-size: 18px;
+}
+#aside{
+    background: #ebebeb;
+    align-content: center;
+    color: #777;
+    height: 250px;
+    width: 400px;
+    margin-right: 40px;
+    margin-top: 30px;
+    float: right;
+}
+#sect{
+    background: #ebebeb;
+    align-content: center;
+    color: #777;
+    height: 250px;
     width: 50%;
+    margin-left: 40px;
+    margin-top: 30px;
 }
-.eb {
+#sectex{
+    padding-top: 40px;
+    font-size: 16px;
+}
+article{
     background: #777;
+    width: 95%;
+    height: 170px;
+    margin-left: 10px;
+}
+#art{;
     color: #ebebeb;
-    text-align: center;
+    align-content: center;
+    font-size: 16px;
+    padding-top: 20px;
 }
-#eb{
-    background: #777;
-    color: #ebebeb;
-    text-align: center;
+#p{
+    align-content: center;
+    width: 90%;
+    padding-left: 5%;
 }
-h1 {
-    color: #777;
-    background: #ebebeb;
-    text-align: center;
-    padding: 20px;
-}
-#hrd{
-    position: fixed;
-    padding: 40px;
-    text-align: center;
-    margin: 0;
-    top: 0;
-    left: 0;
-}
-.section{
-    padding: 20px;
-}
-}
-#asi{
-    background: #777;
-    color: #ebebeb;
-    text-align: center;
-}
-h1 #tp{
+#p1 {
     background: #ebebeb;
     color: #777;
-    text-align: center;
-    padding: 10px
-}
-#bo{
-    background: #ebebeb;
-    color: #777;
-    text-align: center;
+    align-content: center;
     padding: 10px;
 }
-footer {
-    position: fixed;
-    bottom: 10%;
-    padding: 20px;
-    color: #777;
+#p2{
     background: #ebebeb;
-    width: 94%;
-    text-align: center;
+    color: #777;
+    align-content: center;
+    padding: 10px;
 }
-#art{
-    width: 94%;
-    margin: 0px 3% 0px 3%;
-    background: #777;
-    color: #ebebeb;
-    
+
+footer{
+    background: #ebebeb;
+    color: #777;
+}
+#footer{
+    background: #ebebeb;
+    color: #777;
+    text-align: center;
+    font-size: 16px;
+    height: 70px;
+    padding-top: 40px;
+    margin-top: 20px;
 }
